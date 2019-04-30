@@ -6,5 +6,5 @@ Simple to-do app for windows. Based on [app-ideas](https://github.com/florinpop1
 
 * create and delete tasks
 * mark tasks as complete or incomplete
-* show lists of complete or imcomplete tasks
+* show lists of complete or incomplete tasks
 * save the tasks and load them in the future
